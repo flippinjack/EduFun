@@ -1,0 +1,2 @@
+# EduFun
+USI project repo
